@@ -87,9 +87,9 @@ Based on the above permission, we use Gobanboshi's original work under the origi
 - Modifications
   - The Pak128.Japan-Ex+Addons Team
 
-`ways/iss`以下のPNGファイルとdattファイルは、128na氏の[それなりにそれっぽいインフラアドオン集](https://128na.github.io/iss/)を元に改造を加えたものです。
+`ways/iss`および`pier/iss`以下のPNGファイルとdattファイルは、128na氏の[それなりにそれっぽいインフラアドオン集](https://128na.github.io/iss/)を元に改造を加えたものです。
 
-The PNG files and datt files located under `ways/iss` are modified versions of 128na's [Infrastructure of Sorenarini Soreppoi series](https://128na.github.io/iss/).
+The PNG files and datt files located under `ways/iss` and `pier/iss` are modified versions of 128na's [Infrastructure of Sorenarini Soreppoi series](https://128na.github.io/iss/).
 
 元作品は[クリエイティブ・コモンズ 表示 4.0 国際 ライセンス](http://creativecommons.org/licenses/by/4.0/)の元で配布されています。改造部分については、[CC BY 4.0 ライセンス](https://creativecommons.org/licenses/by/4.0/deed.ja)で提供します。利用時は両方の条件を遵守してください。
 

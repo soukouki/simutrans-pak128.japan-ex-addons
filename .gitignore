@@ -3,4 +3,5 @@
 *.entab
 *.pak
 *.xlsx#
+~$*.xlsx
 Pak128.Japan-Ex+Addons

@@ -367,7 +367,7 @@ toolbar[1][14]=general_tool[39],41,,3
 
 # pier tools
 toolbar[2][0]=-,151,,
-toolbar[2][1]=piers(A)
+toolbar[2][1]=piers()
 toolbar[2][2]=toolbar[45],152,,PIERBLOCKS,pierblocks.txt
 
 ########## PART 1 WayTools #############
